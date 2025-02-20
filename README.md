@@ -26,9 +26,9 @@
 - 🌎 [More Links](https://bio.site/missbawean)  
 
 #### 🚀 Fun Fact  
-💰 I collect old currencies as a hobby!  
-🎨 I do Graphic Designer and Content Creation
-📂 I was previously a Project Manager 
+- 💰 I collect old currencies as a hobby!  
+- 🎨 I do Graphic Designer and Content Creation
+- 📂 I was previously a Project Manager 
 
 <!---
 Missbawean/Missbawean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
